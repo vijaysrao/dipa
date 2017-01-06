@@ -9,21 +9,16 @@ This code is based on FS-LWB implementation by Chayan Sarkar. His code is availa
 You may cite DIPA in one of the following ways:
 * V. S. Rao, M. Koppal, R. V. Prasad, T. V. Prabhakar, C. Sarkar, and I. Niemegeers, "Murphy loves CI: unfolding and improving constructive interference in WSNs," in The 35th Annual IEEE International Conference on Computer Communications (INFOCOM 2016), San Francisco,
 USA, April 2016.
-* @inproceedings{rao2016murphy,
+* Bibtex:
 
-  title={Murphy loves CI: Unfolding and improving constructive interference in WSNs},
-  
-  author={Rao, Vijay S and Koppal, M and Prasad, R Venkatesha and Prabhakar, TV and Sarkar, C and Niemegeers, I},
-  
-  booktitle={The 35th Annual IEEE International Conference on Computer Communications, IEEE INFOCOM 2016},
-  
-  pages={1--9},
-  
-  year={2016},
-  
-  organization={IEEE}
-  
-}
+    @inproceedings{rao2016murphy,
+    title={Murphy loves CI: Unfolding and improving constructive interference in WSNs},
+    author={Rao, Vijay S and Koppal, M and Prasad, R Venkatesha and Prabhakar, TV and Sarkar, C and Niemegeers, I},
+    booktitle={The 35th Annual IEEE International Conference on Computer Communications, IEEE INFOCOM 2016},
+    pages={1--9}, 
+    year={2016}, 
+    organization={IEEE}
+    }
 
 References:
 
