@@ -1,3 +1,6 @@
+Destructive Interference based Power Adaptation (DIPA)
+======================================================
+
 Destructive Interference based Power Adaptation (DIPA) is a performance enhancement algorithm for Constructive Interference (CI) on IEEE 802.15.4 nodes. This algorithm is part of our paper: "Murphy loves CI: unfolding and improving constructive interference in WSNs", in The 35th Annual IEEE International Conference on Computer Communications (INFOCOM 2016).
 
 The constructive interference (CI) phenomenon occurs when two or more nodes transmit the same data concurrently, which makes the signals superpose. Hence, receivers can decode the packet successfully with high probability due to, supposedly, the increased signal power at the receivers [1]. 
