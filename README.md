@@ -4,7 +4,7 @@ The constructive interference (CI) phenomenon occurs when two or more nodes tran
 
 While CI itself is supposed to be reliable, it is apparently not always the case as shown in [2]. Therefore, we develop DIPA,  an energy-efficient and distributed algorithm, that adapts transmission power to improve the performance of CI. Since CI based protocols cannot have an explicit acknowledgment packet, we make use of destructive interference on a designated byte to provide feedback. We leverage this feedback to adapt transmission powers. Refer to [2] for further details.
 
-This code is based on FS-LWB implementation by Chayan Sarkar. His code is availabe at https://github.com/csarkar/tailored-lwb/
+This code is based on FS-LWB implementation on Contiki-3.x by Chayan Sarkar. His code is availabe at https://github.com/csarkar/tailored-lwb/
 
 You may cite DIPA in one of the following ways:
 
